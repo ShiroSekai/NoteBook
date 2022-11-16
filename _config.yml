@@ -112,7 +112,7 @@ twitter_username:   Shiro3322
 
 # 头像圆角
 avatar_style:
-  radius: true
+  radius: false
 
 
 # 搜索数据文件路径设置，不建议改动：
